@@ -4,61 +4,54 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Junior Web Developer @ RentCar.gr
+##  Jr. Front-end Developer (Heraklion) @ [Netmechanics LLC](https://www.netmechanics.gr)
 
-RentCar.gr is looking for a Junior Web Developer to be part of the development team.
+Are you a front-end coder with an eye for design? **Join our Team.** 
 
-[Read more & Apply here](https://rentcar.gr/jobs/)
+Netmechanics is looking for ambitious and creative individuals to join our growing team, in a fast-paced and inspiring work environment.
 
-* PubDate: 11/11/2019
+[Read more & Apply here](https://github.com/Netmechanics/jobs/blob/master/dev-front-end-junior.md)
 
-## Front-end Developer (Heraklion or Athens) @ [BestPrice](https://www.bestprice.gr)
+* PubDate: 22/01/2020
 
-BestPrice is looking for a talented Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
+## .NET Web-Developer for an international project (Heraklion/Chania/Rethymnon) @ [European Dynamics](http://www.eurodyn.com)
 
-[Read more & Apply here](https://bestprice.workable.com/j/A298E65924)
+We currently have a vacancy for a .NET Web-developer fluent in English, to offer his/her services as an expert
+who will be based in Heraklion, Chania or Rethymnon, Greece.
 
-* PubDate: 10/10/2019
+[Read more & Apply here](https://apply.workable.com/european-dynamics/j/0119E4AC46/)
 
-## .NET Web-Developer for International e-Government Projects @ [European Dynamics](https://www.eurodyn.com)
+* PubDate: 14/01/2020
 
-European Dynamics currently have a vacancy for a .NET Web-developer, fluent in English, who would ideally be based in Heraklion, Greece to integrate on-site with the existing team. All levels are welcome to apply!
+##  Senior Frontend Developer / Web Designer (Heraklion) @ [iWorx](http://www.iworx.gr)
 
-[Read more & Apply here](https://european-dynamics.workable.com/j/0119E4AC46)
+iWorx is looking for a passionate Senior Frontend Developer / Web Designer to join our Team.
 
-If you are interested and would like more information, please send an email with your C.V. (in English) attached to andrew.holdsworth@eurodyn.com
+[Read more & Apply here](https://github.com/iworx-greece/jobs/blob/master/README.md)
 
-* PubDate: 24/09/2019
+* PubDate: 12/01/2020
 
-## Back-end Developer (Heraklion or Remote) @ [Enartia](https://www.enartia.com/)
+## Senior Front-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
 
-Enartia is looking for an experienced, analytical, and self-motivated Back-end Developer to join our team. The ideal candidate cares about the quality and maintainability of their code, as well as the problem-solving process itself.
-For this role, working hours can be used either on-site or up to 100% remotely.
+BestPrice is looking for a talented Senior Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
 
-[Read more & Apply here](https://enartia.workable.com/j/020FDA41C1) for this position.
+[Read more & Apply here](https://bestprice.workable.com/j/FFA1EBF3B4)
 
-* PubDate: 12/09/2019
+* PubDate: 09/01/2020
 
-## Android developer (Heraklion) @ [ORTEC for Communications](https://www.orteccommunications.com)
+## Senior Back-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
 
-Looking for the next challenge in your career? We are hiring! We are currently seeking a full time Android mobile developer to join our team in Heraklion, Crete! Come and talk to us for an exciting opportunity at ORTEC For Communications.
+As part of BestPrice Engineering team, you will work in a fast-paced, dynamic and cross-functional environment, using cutting-edge technologies.
 
-[Find out more](https://www.orteccommunications.com/software-development) about this position.
+[Read more & Apply here](https://bestprice.workable.com/j/19D228D684)
 
-* PubDate: 04/09/2019
+* PubDate: 09/01/2020
 
-## Mid Senior JavaScript Engineer React/Redux(Remote) @ Omilia
+## Senior Developer C/C++ (Heraklion or Athens) @ [Forthnet](http://www.forthnet.gr)
 
-We are looking for a Mid Senior Level Javascript Engineer to join our team in Athens, Greece.
+Forthnet is looking for a passionate and experienced Software Developer to work in its IT department in either Athens or Heraklion.
 
-You will be part of a talented software team that delivers the latest in Virtual Assistant technologies in Banks and Mobile Network Operators across the world.
+[Read more & Apply here](http://nova.gr/careers)
 
-* PubDate: 29/08/2019
-* [Read more and apply here](https://omilia-ltd.workable.com/jobs/530335)
+* PubDate: 13/11/2019
 
-## Junior & Senior Software Developers (Angular/.NET) @ [Cyberlogic](http://www.cyberlogic.gr)
-
-We are looking for senior and junior software developers to join our team. The ideal candidates will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
-
-* PubDate: 21/08/2019
-* Apply [here](https://www.cyberlogic.gr/en/careers/)
